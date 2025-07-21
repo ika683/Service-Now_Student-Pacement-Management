@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="21b0f43a837226504b50c8a6feaad367" label="Interview Schedule" max_length="40" name="x_1807196_student_interview_schedule" type="collection">
+        <element label="Location/Link" max_length="40" name="location_link" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Feedback" max_length="40" name="feedback" type="string"/>
+        <element label="Application" max_length="40" name="application" reference="x_1807196_student_applications" type="string"/>
+        <element default="Pass" label="Result" max_length="40" name="result" type="string"/>
+    </element>
+</database>

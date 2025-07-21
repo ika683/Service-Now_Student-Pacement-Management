@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1807196_student_student_profile" version="2" view="RPT7803353283f626504b50c8a6feaad33b">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3403353283f626504b50c8a6feaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cgpa</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3803353283f626504b50c8a6feaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3c03353283f626504b50c8a6feaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone_number</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3003353283f626504b50c8a6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>placement_status</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3403353283f626504b50c8a6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>resume</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3803353283f626504b50c8a6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>roll_number</element>
+            <list_id display_value="x_1807196_student_student_profile" element="NULL" name="x_1807196_student_student_profile" parent="NULL" relationship="NULL" sys_domain="global" view="f003353283f626504b50c8a6feaad342">f403353283f626504b50c8a6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_id>3c03353283f626504b50c8a6feaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1807196_student_student_profile</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-21 11:08:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f403353283f626504b50c8a6feaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1807196_student_student_profile</sys_name>
+            <sys_package display_value="Student Placement Management" source="x_1807196_student">7bb628ba833226504b50c8a6feaad3fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Placement Management">7bb628ba833226504b50c8a6feaad3fd</sys_scope>
+            <sys_update_name>sys_ui_list_x_1807196_student_student_profile_RPT7803353283f626504b50c8a6feaad33b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-21 11:08:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt7803353283f626504b50c8a6feaad33b" name="RPT7803353283f626504b50c8a6feaad33b">f003353283f626504b50c8a6feaad342</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

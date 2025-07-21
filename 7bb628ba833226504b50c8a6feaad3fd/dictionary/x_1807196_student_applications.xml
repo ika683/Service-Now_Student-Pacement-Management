@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="97ff2c76837226504b50c8a6feaad373" label="Applications" max_length="40" name="x_1807196_student_applications" type="collection">
+        <element label="Job Posting" max_length="40" name="job_posting" reference="x_1807196_student_job_posting" type="string"/>
+        <element label="Student" max_length="40" name="student" reference="x_1807196_student_student_profile" type="string"/>
+        <element label="Application Date" max_length="40" name="application_date" type="glide_date_time"/>
+        <element label="Resume" max_length="40" name="resume" type="file_attachment"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="not selected"/>
+                <element inactive_on_update="false" label="selected"/>
+                <element inactive_on_update="false" label="shortlisted"/>
+                <element inactive_on_update="false" label="interviewed"/>
+                <element inactive_on_update="false" label="applied"/>
+            </choice>
+        </element>
+    </element>
+</database>

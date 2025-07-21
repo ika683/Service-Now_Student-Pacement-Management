@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Placement Officer Dashboard">06d9bd3a83f626504b50c8a6feaad34a</dashboard>
+        <dashboard_tab display_value="New Tab 3">ced9b97a83f626504b50c8a6feaad33d</dashboard_tab>
+        <layout>[{"sys_id":"6c2ab97a83f626504b50c8a6feaad35c","x":0,"y":0,"w":13,"h":13,"component_id":"1f6e0643eca7a637e36bd7833549ec9e","component_props":"{\"variant\":\"header-primary\",\"label\":\"Total Placements\",\"wontWrap\":false,\"hasNoMargin\":false,\"level\":\"1\",\"id\":\"label\",\"value\":\"Total Placements\",\"noDebounce\":true,\"propLabel\":\"Label\"}","can_edit":true},{"sys_id":"6c2ab97a83f626504b50c8a6feaad361","x":26,"y":0,"w":13,"h":13,"component_id":"1f6e0643eca7a637e36bd7833549ec9e","component_props":"{\"variant\":\"header-primary\",\"label\":\"Top Recruiting Companies\",\"wontWrap\":false,\"hasNoMargin\":false,\"level\":\"1\",\"id\":\"label\",\"value\":\"Top Recruiting Companies\",\"noDebounce\":true,\"propLabel\":\"Label\"}","can_edit":true},{"sys_id":"e42ab97a83f626504b50c8a6feaad35f","x":13,"y":0,"w":13,"h":13,"component_id":"1f6e0643eca7a637e36bd7833549ec9e","component_props":"{\"variant\":\"header-primary\",\"label\":\"Success Rate by departments \",\"wontWrap\":false,\"hasNoMargin\":false,\"level\":\"1\",\"id\":\"label\",\"value\":\"Success Rate by departments \",\"noDebounce\":true,\"propLabel\":\"Label\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-21 11:38:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46d9b97a83f626504b50c8a6feaad340</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Student Placement Management" source="x_1807196_student">7bb628ba833226504b50c8a6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Placement Management">7bb628ba833226504b50c8a6feaad3fd</sys_scope>
+        <sys_update_name>par_dashboard_canvas_46d9b97a83f626504b50c8a6feaad340</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-21 11:39:33</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8f71747a837226504b50c8a6feaad373" label="Placement Status" max_length="40" name="x_1807196_student_placement_status" type="collection">
+        <element label="Company" max_length="40" name="company" reference="x_1807196_student_company_profile" type="string"/>
+        <element label="Student" max_length="40" name="student" reference="x_1807196_student_student_profile" type="string"/>
+        <element label="Package Offered" max_length="20" name="package_offered" type="currency"/>
+        <element choice="3" default="Not selected" label="Status" max_length="40" name="status" reference_qual="null" reference_qual_condition="null" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Selected"/>
+                <element inactive_on_update="false" label="Selected"/>
+            </choice>
+        </element>
+    </element>
+</database>

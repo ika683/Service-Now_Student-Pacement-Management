@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1807196_student.job_posting_user" name="x_1807196_student.job_posting_user">dddfecf6837226504b50c8a6feaad383</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-21 06:14:56</sys_created_on>
+        <sys_id>1ddfecf6837226504b50c8a6feaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dddfecf6837226504b50c8a6feaad383</sys_name>
+        <sys_package display_value="Student Placement Management" source="x_1807196_student">7bb628ba833226504b50c8a6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Placement Management">7bb628ba833226504b50c8a6feaad3fd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1ddfecf6837226504b50c8a6feaad385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-21 06:14:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
